@@ -1,0 +1,26 @@
+h1 
+{
+  text-shadow: springgreen;
+  color: blanchedalmond;
+  text-align: center;
+}
+p 
+{
+  color: blueviolet
+}
+.flottant
+{
+  float left;
+}
+body
+{
+  background-image: url("pexels-photo-4253317.jpeg");
+}
+a:hover
+{
+  color:green;
+}
+a
+{
+  color:#888888;
+}
